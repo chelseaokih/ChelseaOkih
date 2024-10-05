@@ -1,7 +1,7 @@
 body {
  background-color:#F6E6BD;
- /*width: 46.5rem;*/
- /*height: 48.9375rem*/
+ width: 46.5rem;
+ height: 48.9375rem;
  text-align: center;
  margin: 1rem;
 }
@@ -59,6 +59,7 @@ display:inline-flex;
 padding: 0.5rem 0.625rem;
 align-items: center;
 gap: 0.625rem;
+
 }
 .writeup {
  color:#4A4536;
